@@ -1,44 +1,39 @@
-<!--
+[English] | [Español](README.es.md) | [Português](README.pt.md)
 
-# Hola, soy [Tu Nombre] 👋
+# Hi there! I'm Eduardo Ramirez 👋
 
-**Full Stack Software Engineer | .NET & Modern Web**
-Especializado en el desarrollo de APIs robustas y aplicaciones web/móviles escalables con **C#, ASP.NET Core, React y TypeScript**. Experiencia sólida en modelado relacional, arquitecturas en capas y despliegues contenerizados.
+### Full Stack Software Engineer | .NET Core & Cloud Native Architectures
 
-- 📍 [Ciudad, País] | Disponible para trabajo [Remoto / Híbrido]
-- 💼 [Tu situación laboral actual: ej. Abierto a nuevas oportunidades / Desarrollador en X]
-- 📬 Contacto: [tu-email@ejemplo.com] | [LinkedIn](https://linkedin.com/in/tu-usuario) | [Portfolio / Blog](https://tu-sitio.com)
+Software Engineer with **5+ years of professional experience** architecting and maintaining mission-critical, high-throughput systems across **e-invoicing (fiscal & tax compliance), accounting, and fuel retail management**.
 
----
-
-### 🛠️ Stack Tecnológico
-
-* **Backend:** C#, ASP.NET Core, Entity Framework Core, LINQ, ASP.NET Identity
-* **Frontend & Mobile:** TypeScript, JavaScript, React, React Native
-* **Bases de Datos:** SQL Server, PostgreSQL, Firebird
-* **Cloud & DevOps:** Docker, Git, Microsoft Azure
-* **Legacy & Modernización:** Object Pascal (Delphi)
+Specialized in building resilient backend services using **C# / ASP.NET Core**, maintainable web interfaces with **React**, and distributed systems powered by **Azure Service Bus** and microservices. Strong track record in **legacy system modernization (migrating mission-critical Pascal/Delphi codebases into cloud-native architectures)** while ensuring transactional integrity, high availability, and loose coupling.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🛠 Tech Stack
 
-#### 1. [Nombre del Proyecto Backend / Full Stack](enlace-al-repo)
-> Sistema de gestión / API RESTful con autenticación robusta y persistencia relacional.
-* **Stack:** ASP.NET Core, EF Core, SQL Server / PostgreSQL, React, Docker.
-* **Aspectos técnicos:** Implementación de Clean Architecture, autenticación con JWT / Identity, manejo de transacciones y paginación optimizada con LINQ.
-* 🔗 [Demo en vivo](https://demo.com) | 📂 [Código fuente](https://github.com/tu-usuario/repo)
-
-#### 2. [Nombre del Proyecto Mobile o Tooling](enlace-al-repo)
-> Aplicación móvil multiplataforma o herramienta de sincronización/migración de datos.
-* **Stack:** React Native, TypeScript, ASP.NET Core.
-* **Aspectos técnicos:** Consumo de endpoints REST, almacenamiento offline local y despliegue multiplataforma.
-* 🔗 [Demo / APK](https://demo.com) | 📂 [Código fuente](https://github.com/tu-usuario/repo)
+- **Backend & Core:** C# (.NET Core, Web APIs), Entity Framework Core, LINQ, Identity, Razor.
+- **Frontend:** React (JavaScript), Material UI (MUI).
+- **Cloud & Architecture:** Azure (Service Bus, App Services), Microservices, Docker, Docker Compose.
+- **Databases:** SQL Server, PostgreSQL.
+- **OS & Environment:** Linux, Windows Server.
+- **Legacy & Domain Expertise:** Pascal / Delphi, E-invoicing & Accounting Core Systems.
+- **Tools & Complementary:** Postman, Insomnia, Git, Node.js, React Native.
 
 ---
 
-### 🎯 Enfoque Actual y Arquitectura
+### 🔭 Current Focus & Systems Architecture
 
-* 🔭 **Construyendo:** Sistemas desacoplados aplicando patrones de diseño (Repository, CQRS básico) y contenedorización con Docker.
-* 🌱 **Profundizando en:** Mensajería y streaming de eventos con **Apache Kafka** y caching distribuido con **Redis**.
-* 🤝 **Abierto a:** Proyectos en ecosistemas .NET / React y migraciones de software empresarial.
+Actively leveling up on large-scale distributed systems and software architecture principles:
+
+- **Data-Intensive Applications:** Data modeling, concurrency, partitioning, replication, and distributed consensus (_Designing Data-Intensive Applications_).
+- **Software Architecture & Microservices:** Service decomposition patterns, event-driven integration, and architectural governance.
+- Upcoming reference architectures and technical PoCs will be published on this profile soon.
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/edrmz96](https://linkedin.com/in/edrmz96)
+<!-- - **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com) -->
+- **Email:** [eduardinhormz@gmail.com](mailto:eduardinhormz@gmail.com)

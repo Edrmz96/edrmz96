@@ -1,10 +1,12 @@
+[English](README.md) | [Español] | [Português](README.pt.md)
+
 # ¡Hola! Soy Eduardo Ramirez 👋
 
-### Full Stack Software Engineer | Ecosistema .NET & Cloud Native
+### Full Stack Software Engineer | .NET Core & Cloud Native
 
-Ingeniero de software enfocado en el diseño e implementación de aplicaciones web escalables y arquitecturas basadas en microservicios. Cuento con experiencia sólida desarrollando servicios backend robustos con **C# / ASP.NET Core**, interfaces modernas y mantenibles en **React**, y soluciones orientadas a eventos integradas con **Azure**.
+Ingeniero de software con **más de 5 años de experiencia** diseñando e implementando sistemas transaccionales y de misión crítica en sectores como **facturación electrónica (normativa fiscal/SAT), contabilidad y control gasolinero**.
 
-Mi trabajo actual se centra en la **modernización de arquitecturas legacy (Pascal/Delphi a .NET Core / Cloud)**, garantizando alta disponibilidad, integridad transaccional y bajo acoplamiento.
+Especializado en el desarrollo de servicios backend de alto rendimiento con **C# / ASP.NET Core**, interfaces dinámicas con **React** y arquitecturas basadas en microservicios y mensajería con **Azure Service Bus**. Cuento con una sólida trayectoria liderando la **modernización y migración de sistemas legacy (Pascal/Delphi hacia arquitecturas cloud-native)**, garantizando consistencia de datos, alta disponibilidad y bajo acoplamiento.
 
 ---
 
@@ -14,23 +16,24 @@ Mi trabajo actual se centra en la **modernización de arquitecturas legacy (Pasc
 - **Frontend:** React (JavaScript), Material UI (MUI).
 - **Cloud & Arquitectura:** Azure (Service Bus, App Services), Microservicios, Docker, Docker Compose.
 - **Bases de Datos:** SQL Server, PostgreSQL.
-- **Legacy & Migración:** Pascal / Delphi.
-- **Otras tecnologías familiares:** Node.js, React Native.
+- **Sistemas & Entorno:** Linux, Windows Server.
+- **Legacy & Dominio Crítico:** Pascal / Delphi, Facturación electrónica & Contabilidad.
+- **Herramientas & Otros:** Postman, Insomnia, Git, Node.js, React Native.
 
 ---
 
 ### 🔭 Enfoque actual & Arquitectura
 
-Actualmente estoy profundizando en el diseño de sistemas distribuidos y de alta demanda, enfocándome en:
+Profundizando activamente en el diseño de sistemas distribuidos y escalables:
 
-- **Diseño de sistemas intensivos en datos:** Concurrencia, particionamiento, replicación y consistencia (_Designing Data-Intensive Applications_).
-- **Fundamentos de arquitectura de software y microservicios:** Patrones de descomposición, comunicación asíncrona por eventos y gobernanza técnica.
+- **Sistemas intensivos en datos:** Modelado de datos, concurrencia, replicación y particionamiento (_Designing Data-Intensive Applications_).
+- **Arquitectura de software y microservicios:** Patrones de descomposición, comunicación asíncrona por eventos y gobernanza técnica.
 - Próximamente publicaré arquitecturas de referencia y pruebas de concepto (PoCs) en este perfil.
 
 ---
 
 ### 📫 Conectemos
 
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com)
-- **Email:** [tu-correo@dominio.com](mailto:tu-correo@dominio.com)
+- **LinkedIn:** [linkedin.com/in/edrmz96](https://linkedin.com/in/edrmz96)
+<!-- - **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com) -->
+- **Email:** [eduardinhormz@gmail.com](mailto:eduardinhormz@gmail.com)
