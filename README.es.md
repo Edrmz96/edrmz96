@@ -1,42 +1,36 @@
-# Hola, soy [Tu Nombre] 👋
+# ¡Hola! Soy Eduardo Ramirez 👋
 
-**Full Stack Software Engineer | .NET & Modern Web**
-Especializado en el desarrollo de APIs robustas y aplicaciones web/móviles escalables con **C#, ASP.NET Core, React y TypeScript**. Experiencia sólida en modelado relacional, arquitecturas en capas y despliegues contenerizados.
+### Full Stack Software Engineer | Ecosistema .NET & Cloud Native
 
-- 📍 [Ciudad, País] | Disponible para trabajo [Remoto / Híbrido]
-- 💼 [Tu situación laboral actual: ej. Abierto a nuevas oportunidades / Desarrollador en X]
-- 📬 Contacto: [tu-email@ejemplo.com] | [LinkedIn](https://linkedin.com/in/tu-usuario) | [Portfolio / Blog](https://tu-sitio.com)
+Ingeniero de software enfocado en el diseño e implementación de aplicaciones web escalables y arquitecturas basadas en microservicios. Cuento con experiencia sólida desarrollando servicios backend robustos con **C# / ASP.NET Core**, interfaces modernas y mantenibles en **React**, y soluciones orientadas a eventos integradas con **Azure**.
 
----
-
-### 🛠️ Stack Tecnológico
-
-* **Backend:** C#, ASP.NET Core, Entity Framework Core, LINQ, ASP.NET Identity
-* **Frontend & Mobile:** TypeScript, JavaScript, React, React Native
-* **Bases de Datos:** SQL Server, PostgreSQL, Firebird
-* **Cloud & DevOps:** Docker, Git, Microsoft Azure
-* **Legacy & Modernización:** Object Pascal (Delphi)
+Mi trabajo actual se centra en la **modernización de arquitecturas legacy (Pascal/Delphi a .NET Core / Cloud)**, garantizando alta disponibilidad, integridad transaccional y bajo acoplamiento.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🛠 Stack Tecnológico
 
-#### 1. [Nombre del Proyecto Backend / Full Stack](enlace-al-repo)
-> Sistema de gestión / API RESTful con autenticación robusta y persistencia relacional.
-* **Stack:** ASP.NET Core, EF Core, SQL Server / PostgreSQL, React, Docker.
-* **Aspectos técnicos:** Implementación de Clean Architecture, autenticación con JWT / Identity, manejo de transacciones y paginación optimizada con LINQ.
-* 🔗 [Demo en vivo](https://demo.com) | 📂 [Código fuente](https://github.com/tu-usuario/repo)
-
-#### 2. [Nombre del Proyecto Mobile o Tooling](enlace-al-repo)
-> Aplicación móvil multiplataforma o herramienta de sincronización/migración de datos.
-* **Stack:** React Native, TypeScript, ASP.NET Core.
-* **Aspectos técnicos:** Consumo de endpoints REST, almacenamiento offline local y despliegue multiplataforma.
-* 🔗 [Demo / APK](https://demo.com) | 📂 [Código fuente](https://github.com/tu-usuario/repo)
+- **Backend & Core:** C# (.NET Core, Web APIs), Entity Framework Core, LINQ, Identity, Razor.
+- **Frontend:** React (JavaScript), Material UI (MUI).
+- **Cloud & Arquitectura:** Azure (Service Bus, App Services), Microservicios, Docker, Docker Compose.
+- **Bases de Datos:** SQL Server, PostgreSQL.
+- **Legacy & Migración:** Pascal / Delphi.
+- **Otras tecnologías familiares:** Node.js, React Native.
 
 ---
 
-### 🎯 Enfoque Actual y Arquitectura
+### 🔭 Enfoque actual & Arquitectura
 
-* 🔭 **Construyendo:** Sistemas desacoplados aplicando patrones de diseño (Repository, CQRS básico) y contenedorización con Docker.
-* 🌱 **Profundizando en:** Mensajería y streaming de eventos con **Apache Kafka** y caching distribuido con **Redis**.
-* 🤝 **Abierto a:** Proyectos en ecosistemas .NET / React y migraciones de software empresarial.
+Actualmente estoy profundizando en el diseño de sistemas distribuidos y de alta demanda, enfocándome en:
+
+- **Diseño de sistemas intensivos en datos:** Concurrencia, particionamiento, replicación y consistencia (_Designing Data-Intensive Applications_).
+- **Fundamentos de arquitectura de software y microservicios:** Patrones de descomposición, comunicación asíncrona por eventos y gobernanza técnica.
+- Próximamente publicaré arquitecturas de referencia y pruebas de concepto (PoCs) en este perfil.
+
+---
+
+### 📫 Conectemos
+
+- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com)
+- **Email:** [tu-correo@dominio.com](mailto:tu-correo@dominio.com)
