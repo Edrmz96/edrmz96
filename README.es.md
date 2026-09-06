@@ -6,7 +6,7 @@
 
 Ingeniero de software con **más de 5 años de experiencia** diseñando e implementando sistemas transaccionales y de misión crítica en sectores como **facturación electrónica (normativa fiscal/SAT), contabilidad y control gasolinero**.
 
-Especializado en el desarrollo de servicios backend de alto rendimiento con **C# / ASP.NET Core**, interfaces dinámicas con **React** y arquitecturas basadas en microservicios y mensajería con **Azure Service Bus**. Cuento con una sólida trayectoria liderando la **modernización y migración de sistemas legacy (Pascal/Delphi hacia arquitecturas cloud-native)**, garantizando consistencia de datos, alta disponibilidad y bajo acoplamiento.
+Especializado en el desarrollo de servicios backend de alto rendimiento con **C# / ASP.NET Core**, interfaces dinámicas con **React** y arquitecturas basadas en microservicios y mensajería con **Azure Service Bus**. Cuento con una sólida trayectoria en la **modernización y migración de sistemas legacy (Pascal/Delphi hacia arquitecturas cloud-native)**, garantizando consistencia de datos, alta disponibilidad y bajo acoplamiento.
 
 ---
 
