@@ -16,7 +16,7 @@ Specialized in building resilient backend services using **C# / ASP.NET Core**, 
 - **Frontend:** React (JavaScript), Material UI (MUI).
 - **Cloud & Architecture:** Azure (Service Bus, App Services), Microservices, Docker, Docker Compose.
 - **Databases:** SQL Server, PostgreSQL.
-- **OS & Environment:** Linux, Windows Server.
+- **OS & Environment:** Linux, Windows.
 - **Legacy & Domain Expertise:** Pascal / Delphi, E-invoicing & Accounting Core Systems.
 - **Tools & Complementary:** Postman, Insomnia, Git, Node.js, React Native.
 
