@@ -35,5 +35,5 @@ Profundizando activamente en el diseño de sistemas distribuidos y escalables:
 ### 📫 Conectemos
 
 - **LinkedIn:** [linkedin.com/in/edrmz96](https://linkedin.com/in/edrmz96)
-<!-- - **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com) -->
+- **Portafolio:** [https://portfolio-eduardormz.vercel.app/es](https://portfolio-eduardormz.vercel.app/es)
 - **Email:** [eduardinhormz@gmail.com](mailto:eduardinhormz@gmail.com)

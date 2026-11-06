@@ -35,5 +35,5 @@ Actively leveling up on large-scale distributed systems and software architectur
 ### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/edrmz96](https://linkedin.com/in/edrmz96)
-<!-- - **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com) -->
+- **Portafolio:** [https://portfolio-eduardormz.vercel.app/en](https://portfolio-eduardormz.vercel.app/en)
 - **Email:** [eduardinhormz@gmail.com](mailto:eduardinhormz@gmail.com)

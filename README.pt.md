@@ -35,5 +35,5 @@ Aprofundando ativamente em sistemas distribuídos e de grande escala:
 ### 📫 Vamos nos conectar?
 
 - **LinkedIn:** [linkedin.com/in/edrmz96](https://linkedin.com/in/edrmz96)
-<!-- - **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com) -->
+- **Portafolio:** [https://portfolio-eduardormz.vercel.app/pt](https://portfolio-eduardormz.vercel.app/pt)
 - **Email:** [eduardinhormz@gmail.com](mailto:eduardinhormz@gmail.com)
